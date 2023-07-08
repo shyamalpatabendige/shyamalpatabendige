@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shyamalpatabendige
+- 👋 Hi, I’m Shyamal Patabendige
 - 👀 I’m interested in travel and nature in addition to exploring new technologies
 - 🌱 I’m currently learning JEE and related cloud native technologies
 - 💞️ I’m looking to collaborate on FOSS 
