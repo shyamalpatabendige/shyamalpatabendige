@@ -3,7 +3,7 @@
 - 🌱 learning JEE and related cloud native technologies,
 - 💞️ FOSS
 - 🤔 Rust and JS      
-- 📫 How to reach me https://twitter.com/shyamal_madura or www.linkedin.com/in/shyamal-patabendige
+- 📫 www.linkedin.com/in/shyamal-patabendige
 
 <!---
 shyamalpatabendige/shyamalpatabendige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
