@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Shyamal Patabendige
-- 👀 I’m interested in travel and nature in addition to exploring new technologies
-- 🌱 I’m currently learning JEE and related cloud native technologies
-- 💞️ I’m looking to collaborate on FOSS 
+- 👀 travel and nature in addition to exploring new technologies
+- 🌱 learning JEE and related cloud native technologies,
+- 💞️ FOSS
+- 🤔 Rust and JS      
 - 📫 How to reach me https://twitter.com/shyamal_madura or www.linkedin.com/in/shyamal-patabendige
 
 <!---
