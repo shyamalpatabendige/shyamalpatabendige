@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyamal Patabendige
-- 👀 travel and nature in addition to exploring new technologies
-- 🌱 learning JEE and related cloud native technologies,
+- 👀 Travel and nature in addition to exploring new technologies
+- 🌱 Learning JEE and related cloud native technologies
 - 💞️ FOSS
 - 🤔 Rust and JS      
 - 📫 www.linkedin.com/in/shyamal-patabendige
